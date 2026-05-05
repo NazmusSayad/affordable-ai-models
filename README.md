@@ -53,6 +53,8 @@ _What you get for a fixed monthly price_
 
 ## 🪙 Best Pay-as-you-go (API)
 
+_What gives you the most for your money_
+
 | Provider                                | Cost Ratio | Pros                         | Cons                                         |
 | --------------------------------------- | ---------- | ---------------------------- | -------------------------------------------- |
 | [OpenAI](https://openai.com)            | 1x         | Higher quality               | -                                            |
