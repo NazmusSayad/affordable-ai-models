@@ -39,8 +39,9 @@ _What you get for a fixed monthly price_
 | Plan                                    | Price | Value     | Access            | Pros              | Cons              |
 | --------------------------------------- | ----- | --------- | ----------------- | ----------------- | ----------------- |
 | [ChatGPT Plus](https://openai.com)      | $20   | $200-$400 | Chat, Codex       | More usage        | -                 |
-| [Claude Pro](https://www.anthropic.com) | $20   | $40       | Chat, Claude Code | Awesome Models    | Expensive Models  |
+| [Claude Pro](https://www.anthropic.com) | $20   | $50-$200  | Chat, Claude Code | Awesome Models    | Expensive Models  |
 | [OpenCode Go](https://opencode.ai/go)   | $10   | $60       | OpenCode, API     | OpenSource Models | OpenSource Models |
+| [Kilo Pass](https://opencode.ai/go)     | $19   | $26.6     | API               | Lots of Models    | -                 |
 
 **TIPS**: Focus on **value**, not just price.
 
