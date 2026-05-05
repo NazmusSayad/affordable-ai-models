@@ -46,7 +46,7 @@ _What you get for a fixed monthly price_
 
 <br />
 
-## 💸 Best Pay-as-you-go (API)
+## 🪙 Best Pay-as-you-go (API)
 
 | Provider     | Cost Ratio | Why                              |
 | ------------ | ---------- | -------------------------------- |
