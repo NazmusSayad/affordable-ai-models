@@ -4,9 +4,9 @@ A comparison of AI provider services based on affordability and value.
 
 We evaluate providers across three main categories:
 
-- [Free / trial access](#-free--trial)
+- [Free / Trial access](#-free--trial)
 - [Subscription value](#-subscription)
-- [Pay-as-you-go efficiency](#-best-pay-as-you-go-api)
+- [Pay-as-you-go Cost](#-best-pay-as-you-go-api)
 
 ## ⭐ Top Picks
 
