@@ -14,6 +14,8 @@ Help developers quickly understand:
 - which subscription is worth it
 - which API gives the best value per dollar
 
+<br />
+
 ## 🆓 Free / Trial
 
 👉 _What you can use without paying_
@@ -28,6 +30,8 @@ Help developers quickly understand:
 | [Fireworks](https://fireworks.ai)        | 6$ Credits  | API       | -               |
 | [Baseten](https://baseten.co)            | 1$ Credits  | API       | -               |
 
+<br />
+
 ## 💳 Subscription
 
 👉 _What you get for a fixed monthly price_
@@ -40,6 +44,8 @@ Help developers quickly understand:
 
 📌 Focus on **value**, not just price.
 
+<br />
+
 ## ⚙️ Best Pay-as-you-go (API)
 
 | Provider     | Cost Ratio | Why                              |
@@ -51,6 +57,8 @@ Help developers quickly understand:
 | Anthropic    | Medium     | Strong reasoning                 |
 
 📌 Best for developers building apps.
+
+<br />
 
 ## 🧠 Quick Advice
 
