@@ -53,7 +53,7 @@ _What you get for a fixed monthly price_
 | [OpenAI](https://openai.com)            | 1x         | Higher quality               | -                                            |
 | [Anthropic](https://www.anthropic.com)  | 1x         | Strong reasoning             | Expensive models                             |
 | [OpenRouter](https://openrouter.ai)     | 1x         | Lots of models, Reliable     | -                                            |
-| [Kilo Gateway](https://kilo.ai/gateway) | 1.4x       | Lots of models, Reliable     | Based on [OpenRouter](https://openrouter.ai) |
+| [Kilo Gateway](https://kilo.ai/gateway) | 1x         | Lots of models, Reliable     | Based on [OpenRouter](https://openrouter.ai) |
 | [Fireworks AI](https://fireworks.ai)    | 1x         | Limited Models, Reliable     | -                                            |
 | [Cerebras](https://www.cerebras.ai)     | 1x         | Low latency, High throughput | Higher costs                                 |
 | [Groq](https://groq.com)                | 1x         | Low latency, High throughput | Smaller models                               |
