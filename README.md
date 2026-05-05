@@ -6,9 +6,7 @@ A comparison of AI provider services based on:
 - [Subscription value](#-subscription)
 - [Pay-as-you-go efficiency](#-best-pay-as-you-go-api)
 
-### 🎯 Goal
-
-Help developers quickly understand:
+Our goal is to help users and developers quickly understand:
 
 - where to get free access
 - which subscription is worth it
