@@ -14,9 +14,7 @@ Help developers quickly understand:
 - which subscription is worth it
 - which API gives the best value per dollar
 
-<br />
-
----
+ <br />
 
 ## 🆓 Free / Trial
 
@@ -32,8 +30,6 @@ _What you can use without paying_
 | [Fireworks](https://fireworks.ai)        | 6$ Credits  | API       | -               |
 | [Baseten](https://baseten.co)            | 1$ Credits  | API       | -               |
 
-## <br />
-
 ## 💳 Subscription
 
 _What you get for a fixed monthly price_
@@ -45,8 +41,6 @@ _What you get for a fixed monthly price_
 | [OpenCode Go](https://opencode.ai/go)   | $10   | $60       | OpenCode, API     | OpenSource Models | OpenSource Models |
 
 **TIPS**: Focus on **value**, not just price.
-
-## <br />
 
 ## ⚙️ Best Pay-as-you-go (API)
 
@@ -60,7 +54,7 @@ _What you get for a fixed monthly price_
 
 **TIPS**: Best for developers building apps.
 
-## <br />
+ <br />
 
 ## 🧠 Quick Advice
 
