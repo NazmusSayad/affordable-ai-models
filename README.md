@@ -22,8 +22,6 @@ Our goal is to help users and developers quickly understand:
 
 ## 🆓 Free / Trial
 
-_What you can use without paying_
-
 | Provider                                 | Type        | Access    | Limitations     |
 | ---------------------------------------- | ----------- | --------- | --------------- |
 | [OpenAI](https://platform.openai.com)    | Free, Trial | API, Chat | Expires quickly |
@@ -38,22 +36,19 @@ _What you can use without paying_
 
 ## 💳 Subscription
 
-_What you get for a fixed monthly price_
-
 | Plan                                  | Price | Value     | Access            | Pros              | Cons              |
 | ------------------------------------- | ----- | --------- | ----------------- | ----------------- | ----------------- |
 | [ChatGPT Plus](https://openai.com)    | $20   | $200-$400 | Chat, Codex       | More usage        | -                 |
 | [Claude Pro](https://anthropic.com)   | $20   | $50-$200  | Chat, Claude Code | Awesome Models    | Expensive Models  |
 | [OpenCode Go](https://opencode.ai/go) | $10   | $60       | OpenCode, API     | OpenSource Models | OpenSource Models |
 | [Kilo Pass](https://opencode.ai/go)   | $19   | $26.6     | API               | Lots of Models    | -                 |
+| [Cursor](https://cursor.com)          | $20   | $45-$100  | Cursor Apps       | Awesome Quality   | For Coding Only   |
 
-**TIPS**: Focus on **value**, not just price.
+_Some subscriptions do not disclose their exact value, so these estimates are based on feedback from experienced users and developers who have used them._
 
 <br />
 
 ## 🪙 Best Pay-as-you-go (API)
-
-_What gives you the most for your money_
 
 | Provider                                | Cost Ratio | Pros                         | Cons                                         |
 | --------------------------------------- | ---------- | ---------------------------- | -------------------------------------------- |
@@ -65,8 +60,6 @@ _What gives you the most for your money_
 | [Cerebras](https://cerebras.ai)         | 1x         | Low latency, High throughput | Higher costs                                 |
 | [Groq](https://groq.com)                | 1x         | Low latency, High throughput | Smaller models                               |
 
-**TIPS**: Best for developers building apps.
-
 <br />
 
 ## 🧠 Quick Advice
@@ -74,6 +67,7 @@ _What gives you the most for your money_
 - Use **free tiers** for testing
 - Use **subscriptions** for daily personal use
 - Use **pay-as-you-go** for building products
+- Prices and offerings can change quickly. Check the provider’s website for the latest information, and do your own research before deciding.
 
 ## ⚒️ Contributing
 
