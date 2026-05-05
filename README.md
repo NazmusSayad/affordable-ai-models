@@ -1,6 +1,6 @@
 # 💸 Affordable AI Models
 
-A comparison of AI provider services based on:
+A comparison of AI provider services based on affordability and value. We evaluate providers across three main categories:
 
 - [Free / trial access](#-free--trial)
 - [Subscription value](#-subscription)
