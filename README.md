@@ -29,8 +29,8 @@ Our goal is to help users and developers quickly understand:
 | [Anthropic](https://platform.claude.com) | Free        | Chat      | Message caps    |
 | [OpenCode](https://opencode.ai)          | Usage       | OpenCode  | Limited Models  |
 | [Ollama Cloud](https://ollama.com)       | Usage       | API       | Limited Models  |
-| [Fireworks](https://fireworks.ai)        | 6$ Credits  | API       | -               |
-| [Baseten](https://baseten.co)            | 1$ Credits  | API       | -               |
+| [Fireworks](https://fireworks.ai)        | 6$ Credits  | API       | Limited Models  |
+| [Baseten](https://baseten.co)            | 1$ Credits  | API       | Limited Models  |
 
 <br />
 
