@@ -18,7 +18,7 @@ We evaluate providers across three main categories:
 
 ## 🆓 Free / Trial
 
-| Provider                                 | Type        | Access    | Limitations     |
+| Provider                                 | Type        | Access    | Limitations ➖  |
 | ---------------------------------------- | ----------- | --------- | --------------- |
 | [OpenAI](https://platform.openai.com)    | Free, Trial | API, Chat | Expires quickly |
 | [Google AI](https://aistudio.google.com) | Free        | API, Chat | Rate limits     |
@@ -32,7 +32,7 @@ We evaluate providers across three main categories:
 
 ## 💳 Subscription
 
-| Plan                                  | Price | Value     | Access            | Pros              | Cons             |
+| Plan                                  | Price | Value     | Access            | Pros ✅           | Cons ❌          |
 | ------------------------------------- | ----- | --------- | ----------------- | ----------------- | ---------------- |
 | [ChatGPT Plus](https://openai.com)    | $20   | $200-$400 | Chat, Codex       | More usage        | -                |
 | [Claude Pro](https://anthropic.com)   | $20   | $50-$200  | Chat, Claude Code | Awesome Models    | Expensive Models |
@@ -46,7 +46,7 @@ _Some subscriptions do not disclose their exact value, so these estimates are ba
 
 ## 🪙 Best Pay-as-you-go (API)
 
-| Provider                                | Cost Ratio | Pros                         | Cons                                         |
+| Provider                                | Cost Ratio | Pros ✅                      | Cons ❌                                      |
 | --------------------------------------- | ---------- | ---------------------------- | -------------------------------------------- |
 | [OpenAI](https://openai.com)            | 1x         | Higher quality               | -                                            |
 | [Anthropic](https://anthropic.com)      | 1x         | Strong reasoning             | Expensive models                             |
