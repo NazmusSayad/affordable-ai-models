@@ -48,13 +48,15 @@ _What you get for a fixed monthly price_
 
 ## 🪙 Best Pay-as-you-go (API)
 
-| Provider     | Cost Ratio | Why                              |
-| ------------ | ---------- | -------------------------------- |
-| OpenRouter   | 1x         | Lots of models, more reliability |
-| Fireworks AI | High       | Optimized inference              |
-| Groq         | High       | Efficient + fast                 |
-| OpenAI       | Medium     | Higher quality, higher cost      |
-| Anthropic    | Medium     | Strong reasoning                 |
+| Provider                                | Cost Ratio | Pros                         | Cons                                         |
+| --------------------------------------- | ---------- | ---------------------------- | -------------------------------------------- |
+| [OpenAI](https://openai.com)            | 1x         | Higher quality               |                                              |
+| [Anthropic](https://www.anthropic.com)  | 1x         | Strong reasoning             | Expensive models                             |
+| [OpenRouter](https://openrouter.ai)     | 1x         | Lots of models, Reliable     |                                              |
+| [Kilo Gateway](https://kilo.ai/gateway) | 1.4x       | Lots of models, Reliable     | Based on [OpenRouter](https://openrouter.ai) |
+| [Fireworks AI](https://fireworks.ai)    | 1x         | Limited Models, Reliable     |                                              |
+| [Cerebras](https://www.cerebras.ai)     | 1x         | Low latency, High throughput |                                              |
+| [Groq](https://groq.com)                | 1x         | Low latency, High throughput | Smaller models                               |
 
 **TIPS**: Best for developers building apps.
 
