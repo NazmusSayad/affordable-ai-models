@@ -12,6 +12,12 @@ Our goal is to help users and developers quickly understand:
 - which subscription is worth it
 - which API gives the best value per dollar
 
+## ⭐ Top Picks
+
+- **Best Free**: [Google AI](https://aistudio.google.com) - Generous free tier with good performance.
+- **Best Subscription**: [ChatGPT Plus](https://openai.com) - High-quality models for a reasonable price.
+- **Best Pay-as-you-go**: [OpenRouter](https://openrouter.ai) - Wide model selection with competitive pricing.
+
 <br />
 
 ## 🆓 Free / Trial
@@ -34,12 +40,12 @@ _What you can use without paying_
 
 _What you get for a fixed monthly price_
 
-| Plan                                    | Price | Value     | Access            | Pros              | Cons              |
-| --------------------------------------- | ----- | --------- | ----------------- | ----------------- | ----------------- |
-| [ChatGPT Plus](https://openai.com)      | $20   | $200-$400 | Chat, Codex       | More usage        | -                 |
-| [Claude Pro](https://www.anthropic.com) | $20   | $50-$200  | Chat, Claude Code | Awesome Models    | Expensive Models  |
-| [OpenCode Go](https://opencode.ai/go)   | $10   | $60       | OpenCode, API     | OpenSource Models | OpenSource Models |
-| [Kilo Pass](https://opencode.ai/go)     | $19   | $26.6     | API               | Lots of Models    | -                 |
+| Plan                                  | Price | Value     | Access            | Pros              | Cons              |
+| ------------------------------------- | ----- | --------- | ----------------- | ----------------- | ----------------- |
+| [ChatGPT Plus](https://openai.com)    | $20   | $200-$400 | Chat, Codex       | More usage        | -                 |
+| [Claude Pro](https://anthropic.com)   | $20   | $50-$200  | Chat, Claude Code | Awesome Models    | Expensive Models  |
+| [OpenCode Go](https://opencode.ai/go) | $10   | $60       | OpenCode, API     | OpenSource Models | OpenSource Models |
+| [Kilo Pass](https://opencode.ai/go)   | $19   | $26.6     | API               | Lots of Models    | -                 |
 
 **TIPS**: Focus on **value**, not just price.
 
@@ -50,11 +56,11 @@ _What you get for a fixed monthly price_
 | Provider                                | Cost Ratio | Pros                         | Cons                                         |
 | --------------------------------------- | ---------- | ---------------------------- | -------------------------------------------- |
 | [OpenAI](https://openai.com)            | 1x         | Higher quality               | -                                            |
-| [Anthropic](https://www.anthropic.com)  | 1x         | Strong reasoning             | Expensive models                             |
+| [Anthropic](https://anthropic.com)      | 1x         | Strong reasoning             | Expensive models                             |
 | [OpenRouter](https://openrouter.ai)     | 1x         | Lots of models, Reliable     | -                                            |
 | [Kilo Gateway](https://kilo.ai/gateway) | 1x         | Lots of models, Reliable     | Based on [OpenRouter](https://openrouter.ai) |
 | [Fireworks AI](https://fireworks.ai)    | 1x         | Limited Models, Reliable     | -                                            |
-| [Cerebras](https://www.cerebras.ai)     | 1x         | Low latency, High throughput | Higher costs                                 |
+| [Cerebras](https://cerebras.ai)         | 1x         | Low latency, High throughput | Higher costs                                 |
 | [Groq](https://groq.com)                | 1x         | Low latency, High throughput | Smaller models                               |
 
 **TIPS**: Best for developers building apps.
