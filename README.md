@@ -32,9 +32,7 @@ _What you can use without paying_
 | [Fireworks](https://fireworks.ai)        | 6$ Credits  | API       | -               |
 | [Baseten](https://baseten.co)            | 1$ Credits  | API       | -               |
 
-<br />
-
----
+## <br />
 
 ## 💳 Subscription
 
@@ -48,9 +46,7 @@ _What you get for a fixed monthly price_
 
 **TIPS**: Focus on **value**, not just price.
 
-<br />
-
----
+## <br />
 
 ## ⚙️ Best Pay-as-you-go (API)
 
@@ -64,9 +60,7 @@ _What you get for a fixed monthly price_
 
 **TIPS**: Best for developers building apps.
 
-<br />
-
----
+## <br />
 
 ## 🧠 Quick Advice
 
