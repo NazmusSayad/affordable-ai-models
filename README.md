@@ -44,7 +44,7 @@ _What you get for a fixed monthly price_
 
 **TIPS**: Focus on **value**, not just price.
 
-<br />
+---
 
 ## ⚙️ Best Pay-as-you-go (API)
 
