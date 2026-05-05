@@ -6,13 +6,15 @@ A comparison of AI provider services based on:
 - Subscription value
 - Pay-as-you-go efficiency
 
-## 🎯 Goal
+### 🎯 Goal
 
 Help developers quickly understand:
 
 - where to get free access
 - which subscription is worth it
 - which API gives the best value per dollar
+
+<br />
 
 ---
 
@@ -30,6 +32,8 @@ _What you can use without paying_
 | [Fireworks](https://fireworks.ai)        | 6$ Credits  | API       | -               |
 | [Baseten](https://baseten.co)            | 1$ Credits  | API       | -               |
 
+<br />
+
 ---
 
 ## 💳 Subscription
@@ -44,6 +48,8 @@ _What you get for a fixed monthly price_
 
 **TIPS**: Focus on **value**, not just price.
 
+<br />
+
 ---
 
 ## ⚙️ Best Pay-as-you-go (API)
@@ -57,6 +63,8 @@ _What you get for a fixed monthly price_
 | Anthropic    | Medium     | Strong reasoning                 |
 
 **TIPS**: Best for developers building apps.
+
+<br />
 
 ---
 
