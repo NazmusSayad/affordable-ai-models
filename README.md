@@ -1,79 +1,64 @@
 # 💸 Affordable AI Models
 
-A practical comparison of AI services based on:
+A comparison of AI provider services based on:
 
-* Free / trial access
-* Subscription value
-* Pay-as-you-go efficiency
-
----
-
-## 🆓 Free / Trial
-
-👉 *What you can use without paying*
-
-| Provider     | Type          | What You Get | Limits          |
-| ------------ | ------------- | ------------ | --------------- |
-| Groq         | Free tier     | LLM access   | Rate limited    |
-| Fireworks AI | Trial credits | API usage    | Expires         |
-| Together AI  | Free tier     | Token usage  | Limited         |
-| OpenAI       | Trial credits | API access   | Expires quickly |
-| Anthropic    | Free tier     | Chat access  | Message caps    |
-| Google AI    | Free tier     | API + chat   | Rate limits     |
-| Hugging Face | Free          | Open models  | Compute limits  |
-
----
-
-## 💳 Subscription
-
-👉 *What you get for a fixed monthly price*
-
-| Provider  | Plan            | Price | Value                  |
-| --------- | --------------- | ----- | ---------------------- |
-| OpenAI    | ChatGPT Plus    | $20   | Better models + limits |
-| Anthropic | Claude Pro      | $20   | More usage             |
-| Google AI | Gemini Advanced | $20   | Large usage            |
-
-📌 Focus on **value**, not just price.
-
----
-
-## ⚙️ Best Pay-as-you-go (API)
-
-👉 *What gives the most usage per $1*
-
-| Provider     | Cost Efficiency | Why                         |
-| ------------ | --------------- | --------------------------- |
-| Together AI  | High            | Very cheap tokens           |
-| Fireworks AI | High            | Optimized inference         |
-| Groq         | High            | Efficient + fast            |
-| OpenAI       | Medium          | Higher quality, higher cost |
-| Anthropic    | Medium          | Strong reasoning            |
-
-📌 Best for developers building apps.
-
----
-
-## 🧠 Quick Advice
-
-* Use **free tiers** for testing
-* Use **subscriptions** for daily personal use
-* Use **pay-as-you-go** for building products
-
----
-
-## ➕ Add Provider
-
-```id="format"
-| Provider | Free/Trial | Subscription | Pay-as-you-go | Notes |
-```
-
----
+- Free / trial access
+- Subscription value
+- Pay-as-you-go efficiency
 
 ## 🎯 Goal
 
 Help developers quickly understand:
 
-* where to get free access
-* which subscription is worth it
-* which API gives the best value per dollar
+- where to get free access
+- which subscription is worth it
+- which API gives the best value per dollar
+
+## 🆓 Free / Trial
+
+👉 _What you can use without paying_
+
+| Provider                                 | Type        | Access    | Limitations     |
+| ---------------------------------------- | ----------- | --------- | --------------- |
+| [OpenAI](https://platform.openai.com)    | Free, Trial | API, Chat | Expires quickly |
+| [Google AI](https://aistudio.google.com) | Free        | API, Chat | Rate limits     |
+| [Anthropic](https://platform.claude.com) | Free        | Chat      | Message caps    |
+| [OpenCode](https://opencode.ai)          | Usage       | OpenCode  | Limited Models  |
+| [Ollama Cloud](https://ollama.com)       | Usage       | API       | Limited Models  |
+| [Fireworks](https://fireworks.ai)        | 6$ Credits  | API       | -               |
+| [Baseten](https://baseten.co)            | 1$ Credits  | API       | -               |
+
+## 💳 Subscription
+
+👉 _What you get for a fixed monthly price_
+
+| Plan                                    | Price | Value     | Access            | Pros              | Cons              |
+| --------------------------------------- | ----- | --------- | ----------------- | ----------------- | ----------------- |
+| [ChatGPT Plus](https://openai.com)      | $20   | $200-$400 | Chat, Codex       | More usage        | -                 |
+| [Claude Pro](https://www.anthropic.com) | $20   | $40       | Chat, Claude Code | Awesome Models    | Expensive Models  |
+| [OpenCode Go](https://opencode.ai/go)   | $10   | $60       | OpenCode, API     | OpenSource Models | OpenSource Models |
+
+📌 Focus on **value**, not just price.
+
+## ⚙️ Best Pay-as-you-go (API)
+
+| Provider     | Cost Ratio | Why                              |
+| ------------ | ---------- | -------------------------------- |
+| OpenRouter   | 1x         | Lots of models, more reliability |
+| Fireworks AI | High       | Optimized inference              |
+| Groq         | High       | Efficient + fast                 |
+| OpenAI       | Medium     | Higher quality, higher cost      |
+| Anthropic    | Medium     | Strong reasoning                 |
+
+📌 Best for developers building apps.
+
+## 🧠 Quick Advice
+
+- Use **free tiers** for testing
+- Use **subscriptions** for daily personal use
+- Use **pay-as-you-go** for building products
+
+## ⚒️ Contributing
+
+- Found a better deal? Open a PR!
+- Have feedback? Create an issue!
