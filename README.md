@@ -14,11 +14,11 @@ Help developers quickly understand:
 - which subscription is worth it
 - which API gives the best value per dollar
 
-<br />
+---
 
 ## 🆓 Free / Trial
 
-👉 _What you can use without paying_
+_What you can use without paying_
 
 | Provider                                 | Type        | Access    | Limitations     |
 | ---------------------------------------- | ----------- | --------- | --------------- |
@@ -30,11 +30,11 @@ Help developers quickly understand:
 | [Fireworks](https://fireworks.ai)        | 6$ Credits  | API       | -               |
 | [Baseten](https://baseten.co)            | 1$ Credits  | API       | -               |
 
-<br />
+---
 
 ## 💳 Subscription
 
-👉 _What you get for a fixed monthly price_
+_What you get for a fixed monthly price_
 
 | Plan                                    | Price | Value     | Access            | Pros              | Cons              |
 | --------------------------------------- | ----- | --------- | ----------------- | ----------------- | ----------------- |
@@ -42,7 +42,7 @@ Help developers quickly understand:
 | [Claude Pro](https://www.anthropic.com) | $20   | $40       | Chat, Claude Code | Awesome Models    | Expensive Models  |
 | [OpenCode Go](https://opencode.ai/go)   | $10   | $60       | OpenCode, API     | OpenSource Models | OpenSource Models |
 
-📌 Focus on **value**, not just price.
+**TIPS**: Focus on **value**, not just price.
 
 <br />
 
@@ -56,9 +56,9 @@ Help developers quickly understand:
 | OpenAI       | Medium     | Higher quality, higher cost      |
 | Anthropic    | Medium     | Strong reasoning                 |
 
-📌 Best for developers building apps.
+**TIPS**: Best for developers building apps.
 
-<br />
+---
 
 ## 🧠 Quick Advice
 
