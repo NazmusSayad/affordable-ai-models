@@ -38,7 +38,7 @@ We evaluate providers across three main categories:
 | [Claude Pro](https://anthropic.com)      | $20   | $50-$200  | Chat, Claude Code | Awesome Models     | Expensive Models |
 | [OpenCode Go](https://opencode.ai/go)    | $10   | $60       | OpenCode, API     | Open-source Models | Limited Models   |
 | [Cursor Pro](https://cursor.com)         | $20   | $45-$100  | Cursor Apps       | Awesome Quality    | For Coding Only  |
-| [Ollama Pro](https://ollama.com/pricing) | $20   | $80-$150  | API               | Open-source Models | Slow Response    |
+| [Ollama Pro](https://ollama.com/pricing) | $20   | $80-$120  | API               | Open-source Models | Slow Response    |
 | [Kilo Pass](https://opencode.ai/go)      | $19   | $26.6     | API               | Lots of Models     | -                |
 
 _Some subscriptions do not disclose their exact value, so these estimates are based on feedback from experienced users and developers who have used them._
